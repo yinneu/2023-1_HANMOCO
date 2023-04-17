@@ -14,3 +14,13 @@
 
 <img src="https://user-images.githubusercontent.com/99879845/230554841-e3e6104b-78a5-4b8d-9ff2-d742587321df.png" width="1000"/>
 
+---
+
+### 2. 2023.04.12 (수) 18:00 ~ 05:00 (11시간) <br>
+
+[ <a href="https://github.com/yinneu/2023-1_HANMOCO/tree/main/2023.04.12">2023.04.12 학습일지</a> ]
+
+<img src="https://user-images.githubusercontent.com/99879845/232356398-b88c98b4-8280-4bb9-9eb4-91ff3239a431.png" width="1000"/>
+
+
+
