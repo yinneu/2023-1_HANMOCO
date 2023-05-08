@@ -26,15 +26,15 @@
 
 ### 4. 2023.04.28 (금) 20:00 ~ 04:00 (8시간) <br>
 
-[ <a href="">2023.04.28 학습일지</a> ]
+[ <a href="https://github.com/yinneu/2023-1_HANMOCO/tree/main/2023.04.28">2023.04.28 학습일지</a> ]
 
-<img src="" width="1000"/>
+<img src="https://user-images.githubusercontent.com/99879845/236728006-25052a1e-521c-4d6c-907e-09a6572fb975.jpg" width="1000"/>
 
 ---
 
 ### 5. 2023.05.04 (금) 20:00 ~ 03:30 (7시간30분) <br>
 
-[ <a href="">2023.05.04 학습일지</a> ]
+[ <a href="https://github.com/yinneu/2023-1_HANMOCO/tree/main/2023.05.04">2023.05.04 학습일지</a> ]
 
 <img src="" width="1000"/>
 
@@ -42,7 +42,7 @@
 
 ### 6. 2023.05.05 (토) 14:00 ~ 04:00 (14시간) <br>
 
-[ <a href="">2023.05.05 학습일지</a> ]
+[ <a href="https://github.com/yinneu/2023-1_HANMOCO/tree/main/2023.05.05">2023.05.05 학습일지</a> ]
 
 <img src="" width="1000"/>
 
