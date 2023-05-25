@@ -36,7 +36,8 @@
 
 [ <a href="https://github.com/yinneu/2023-1_HANMOCO/tree/main/2023.05.04">2023.05.04 학습일지</a> ]
 
-<img src="" width="1000"/>
+<img src="https://github.com/yinneu/2023-1_HANMOCO/assets/99879845/30ad919b-186f-4652-a387-3d44fc4c0bfc" width="1000"/>
+
 
 ---
 
